@@ -4,6 +4,7 @@
   <asx:values>
    <TOOL>CLASENH</TOOL>
    <SHORTTEXT>test</SHORTTEXT>
+   <CLASS>ZCL_BASE</CLASS>
    <OWR_METHODS/>
    <PRE_METHODS>
     <ENHAMETHKEYS>
