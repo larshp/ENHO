@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>CLASENH</TOOL>
+   <SHORTTEXT>test</SHORTTEXT>
+   <OWR_METHODS/>
+   <PRE_METHODS>
+    <ENHAMETHKEYS>
+     <METHKEY>
+      <CLSNAME>ZCL_BASE</CLSNAME>
+      <CMPNAME>FOOBAR</CMPNAME>
+     </METHKEY>
+     <DELETE_FLAG/>
+     <ADD_FLAG/>
+     <LCL_NAME/>
+     <RELATED_ENHANCEMENT/>
+    </ENHAMETHKEYS>
+   </PRE_METHODS>
+   <POST_METHODS/>
+  </asx:values>
+ </asx:abap>
+</abapGit>
